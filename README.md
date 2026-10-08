@@ -8,9 +8,8 @@ SWYNEX-Security-Assessment/
 │   └── Security_Assessment_Report.pdf
 │
 ├── Evidence/
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   └── screenshot3.png
+│   ├── Evidence/sqli-login.png
+│   ├── Evidence/sqli-success.png
 │
 └── Recommendations/
     └── Mitigation.md
